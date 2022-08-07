@@ -1,2 +1,13 @@
-# AI-Programming-with-Python
-Repo for  AI-Programming with Python Nanodegree project 
+
+# AI Programming with Python Project
+
+## Project 1 : Use pretrained Image Classifier
+
+Using  an already developed Python classifier to predict dogs.
+
+
+## Project 2 : Image Classifier
+
+Project code for Udacity's AI Programming with Python Nanodegree program.
+In this project, I first develop code for an image classifier built with PyTorch, then convert it into a command line application.
+

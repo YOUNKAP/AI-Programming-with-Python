@@ -4,6 +4,7 @@
 ## Project 1 : Use pretrained Image Classifier
 
 Using  an already developed Python classifier to predict dogs.
+This code test my python skills
 
 
 ## Project 2 : Image Classifier
